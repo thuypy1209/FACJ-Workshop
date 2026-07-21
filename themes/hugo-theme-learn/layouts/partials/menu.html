@@ -81,7 +81,7 @@
               >
                 <g>
                   <g id="arrow-drop-down">
-                    <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
+                    <polygon points="0,63.75 127.5,191.25 255,63.75     " />
                   </g>
                 </g>
               </svg>
@@ -103,17 +103,29 @@
 </nav>
 
 <!-- templates -->
-{{ define "section-tree-nav" }} {{ $showvisitedlinks := .showvisitedlinks }} {{
-$currentNode := .currentnode }} {{ $currentFileUniqueID := "" }} {{ with
-$currentNode.File }}{{ $currentFileUniqueID = .UniqueID }}{{ end }} {{with
-.sect}} {{if and .IsSection (or (not .Params.hidden) $.showhidden)}} {{safeHTML
-.Params.head}}
+{{ define "section-tree-nav" }} 
+{{ $showvisitedlinks := .showvisitedlinks }} 
+{{ $currentNode := .currentnode }} 
+{{ $currentFileUniqueID := "" }} 
+{{ with $currentNode.File }}{{ $currentFileUniqueID = .UniqueID }}{{ end }} 
+
+{{ with .sect }} 
+{{ if and .IsSection (or (not .Params.hidden) $.showhidden) }} 
+{{ safeHTML .Params.head }}
+
+{{- $isSecActive := false -}}
+{{- with .File -}}
+  {{- if and $currentFileUniqueID (eq .UniqueID $currentFileUniqueID) -}}
+    {{- $isSecActive = true -}}
+  {{- end -}}
+{{- end -}}
+
 <li
   data-nav-id="{{.RelPermalink}}"
   title="{{.Title}}"
   class="dd-item 
         {{if .IsAncestor $currentNode }}parent{{end}}
-        {{if eq .File.UniqueID $currentFileUniqueID}}active{{end}}
+        {{if $isSecActive}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         "
 >
@@ -139,11 +151,21 @@ $currentNode.File }}{{ $currentFileUniqueID = .UniqueID }}{{ end }} {{with
   </ul>
   {{ end }}
 </li>
-{{else}} {{ if not .Params.Hidden }}
+
+{{else}} 
+{{ if not .Params.Hidden }}
+
+{{- $isPageActive := false -}}
+{{- with .File -}}
+  {{- if and $currentFileUniqueID (eq .UniqueID $currentFileUniqueID) -}}
+    {{- $isPageActive = true -}}
+  {{- end -}}
+{{- end -}}
+
 <li
   data-nav-id="{{.RelPermalink}}"
   title="{{.Title}}"
-  class="dd-item {{if eq .File.UniqueID $currentFileUniqueID}}active{{end}}"
+  class="dd-item {{if $isPageActive}}active{{end}}"
 >
   <a href="{{ .RelPermalink}}">
     {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML
@@ -153,4 +175,7 @@ $currentNode.File }}{{ $currentFileUniqueID = .UniqueID }}{{ end }} {{with
     >{{end}}
   </a>
 </li>
-{{ end }} {{end}} {{ end }} {{ end }}
+{{ end }} 
+{{ end }} 
+{{ end }} 
+{{ end }}
