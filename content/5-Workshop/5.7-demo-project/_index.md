@@ -7,9 +7,9 @@ pre : " <b> 5.7. </b> "
 ---
 ### User Sign In & Registration
 
-![Sign In](/FACJ-Workshop/images/5-Workshop/5.7-demo-project/demo1.png)
+![Sign In](/images/5-Workshop/5.7-demo-project/demo1.png)
 
-![User Registration](/FACJ-Workshop/images/5-Workshop/5.7-demo-project/demo2.png)
+![User Registration](/images/5-Workshop/5.7-demo-project/demo2.png)
 
 ### Hotel Booking
 
