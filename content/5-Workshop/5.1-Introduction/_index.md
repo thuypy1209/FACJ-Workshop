@@ -53,6 +53,7 @@ This workshop provides a step-by-step guide to provisioning a serverless infrast
 | **Compute & API Layer** | All **RESTful APIs** are exposed through **Amazon API Gateway**, while backend business logic is implemented using **Node.js** functions running on **AWS Lambda**. |
 | **Database & Authentication** | Application data is stored in **Amazon DynamoDB**, and user registration, authentication, and identity management are handled by **Amazon Cognito**. |
 | **Security** | The system is protected by **AWS WAF** using managed security rule sets (including the **Core Rule Set** and **SQL Injection Protection**) together with strict **CORS** policies configured on Amazon API Gateway. |
+![Architecture Diagram](/images/Diagram.png)
 
 # Workshop Roadmap
 
