@@ -6,45 +6,45 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Below are my personal reflections and evaluation after 12 weeks on the First Cloud Journey (FCJ) program.
+> Below are my personal reflections and feedback after 12 weeks of participating in the First Cloud Journey (FCJ) program.
 
-### Overall Evaluation
+### General Review
 
-**1. Learning & Working Environment**
+**1. Learning Environment & Workplace Culture**
 
-What impressed me most about FCJ was how well-structured the program was, week by week, with a clear path from fundamentals to advanced topics. Learning never stopped at theory — every concept was immediately followed by a hands-on Lab, which helped the knowledge stick and made me understand the "why" instead of just memorizing steps.
+What impressed me most about FCJ was how the program was structured week by week, with a clear roadmap from fundamentals to advanced topics. Learning was never limited to theory — every concept was followed by a hands-on Lab, which helped me retain knowledge longer and understand the reasoning behind things rather than just memorizing them.
 
 **2. Mentor & Admin Team Support**
 
-What I appreciated most was that the Mentors never handed me the answer the moment I hit an error. Instead, they'd turn the question back on me, pushing me to think through the solution myself. It was frustrating at first, but over time I realized this was exactly how I built independent debugging skills — something I believe will stay with me for the rest of my career.
+What I appreciated most was that mentors never handed me the answer when I was stuck. Instead, they would turn the question back on me to push me to find my own way out. At first this was frustrating, but looking back, it taught me how to debug independently — a skill I think will stay with me throughout my career.
 
-**3. Program Fit with Personal Goals**
+**3. Alignment with Personal Goals**
 
-Before joining FCJ, I had almost no background in Cloud at all. The program helped me build a path from zero: understanding why businesses move to the Cloud, how to reason about cost, and how to design a system that balances cost-efficiency with the ability to handle real load. This was exactly what I needed to move forward with confidence in a DevOps/Cloud career.
+Before joining FCJ, I had almost no Cloud foundation. The program helped me build one from scratch: understanding why businesses migrate to the Cloud, how to estimate costs, and how to design systems that balance performance with cost efficiency. This was exactly what I needed to confidently pursue a DevOps/Cloud career path.
 
-**4. Learning Opportunities & Skill Development**
+**4. Learning & Skill Development**
 
-My team's capstone project was building a deployment system for a web application with basic auto-scaling and monitoring. Working on this project was the first time I really understood how a real-world system operates end-to-end, rather than just working through isolated, disconnected Labs like before.
+My team's final project was building a web application with auto-scaling and basic monitoring capabilities. Working on it gave me my first real picture of how a production system actually operates — something you can't get from isolated Lab exercises alone.
 
-**5. Culture & Team Spirit**
+**5. Team Culture & Collaboration**
 
-My team had members across different time zones and schedules, which made coordinating meetings genuinely difficult at first. But because of that, we learned to divide tasks clearly and write thorough progress reports so everyone stayed aligned even without frequent live meetings — a remote-work skill I think is extremely relevant to real corporate environments.
+Our team had members across different time zones and schedules, which made coordinating meetings tricky at first. But this pushed us to divide tasks clearly and write detailed progress updates so everyone stayed in the loop without needing to meet constantly — a remote-work skill I think is very relevant to real workplace environments.
 
-### A Few More Questions
+### Additional Questions
 
-- What did you enjoy **most** during the internship?
-  **Answer:** Getting to build a system with auto-scaling from start to finish myself, rather than just learning the theory.
+- What did you **enjoy most** during your internship?
+  **Answer:** For the first time, I truly understood how a system works end to end — not by reading documentation, but by building it myself and fixing it when it broke. Seeing the auto-scaling work correctly after multiple failed attempts is something I won't forget.
 
-- What do you think the company should **improve** for future interns?
-  **Answer:** More small-group code/architecture review sessions so mentors can give each person more detailed feedback — with a fairly large number of interns, 1-on-1 time was sometimes limited.
+- What do you think the company **should improve** for future interns?
+  **Answer:** The intern cohort was fairly large, so one-on-one time with mentors was limited. Adding regular small-group architecture or code review sessions would help future interns get more targeted feedback instead of mostly figuring things out on their own.
 
-- Would you **recommend this internship** to a friend? Why?
-  **Answer:** Yes. It's especially well-suited for anyone with no Cloud background who is genuinely serious about learning, since the program is built to walk you through everything from zero.
+- Would you **recommend this program** to friends? Why?
+  **Answer:** Yes — but I'd be upfront that it's not easy if you're just looking for a certificate. If you genuinely want to learn Cloud from zero, this is the right place.
 
-### Suggestions & Wishes
+### Suggestions & Hopes
 
 - Do you have any suggestions to improve the internship experience?
-  **Answer:** Add more in-depth exercises on Security and Cost Optimization — these felt like two areas that weren't explored as much in the current program.
+  **Answer:** I felt that Security and Cost Optimization were touched on but not explored deeply enough to apply confidently in real projects. Dedicated Labs for both areas would make the program significantly more practical.
 
 - Would you like to continue with this program in the future?
-  **Answer:** Yes, I'd love to come back and support the next batch of interns, while continuing to go deeper into large-scale system architecture on AWS.
+  **Answer:** Yes. I'd like to come back and support the next cohort — partly to give back what I've received, and partly because I know that explaining things to others is one of the most effective ways to deepen your own understanding.
