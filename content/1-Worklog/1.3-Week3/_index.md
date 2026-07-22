@@ -15,9 +15,9 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                       | Start Date | Completion Date | Reference Material                        |
 | --- | ----------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------ |
-| 1   | - Study DynamoDB fundamentals: partition key, sort key, Global Secondary Index (GSI)                                     | 05/18/2026 | 05/18/2026      | <https://cloudjourney.awsstudygroup.com/>  |
-| 2   | - Design the table structure for Users, Tours, and Bookings, based on the system's access patterns                       | 05/19/2026 | 05/19/2026      | -                                           |
-| 3   | - Create the DynamoDB tables and configure the primary key / GSI for each table                                          | 05/20/2026 | 05/20/2026      | -                                           |
+| 1   | - Study DynamoDB fundamentals: partition key, sort key, Global Secondary Index (GSI)                                     | 05/18/2026 | 05/18/2026      | <https://docs.aws.amazon.com/amazondynamodb/>  |
+| 2   | - Design the table structure for Users, Tours, and Bookings, based on the system's access patterns                       | 05/19/2026 | 05/19/2026      | <https://docs.aws.amazon.com/amazondynamodb/>                                           |
+| 3   | - Create the DynamoDB tables and configure the primary key / GSI for each table                                          | 05/20/2026 | 05/20/2026      | <https://docs.aws.amazon.com/amazondynamodb/>                                           |
 | 4   | - Seed sample data for Users, Tours and Bookings <br> - **Practice:** insert, update and delete items via AWS Console     | 05/21/2026 | 05/21/2026      | -                                           |
 | 5   | - **Practice:** set up basic queries (Query/Scan) to search tour information by different access patterns <br> - Review with mentor | 05/22/2026 | 05/22/2026      | -                                           |
 

@@ -16,7 +16,7 @@ pre: " <b> 1.11. </b> "
 | Day | Task                                                                                                                    | Start Date | Completion Date | Reference Material                        |
 | --- | -------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------ |
 | 1   | - Build a test-case checklist covering the full flow: DNS resolution, web delivery, sign-up, login, view tour list, booking | 07/13/2026 | 07/13/2026      | -                                           |
-| 2   | - Test Route 53/WAF/CloudFront (steps 1–3) and the authentication flow (sign-up/login/expired token, steps 4 and 7)   | 07/14/2026 | 07/14/2026      | -                                           |
+| 2   | - Test Route 53/WAF/CloudFront (steps 1–3) and the authentication flow (sign-up/login/expired token, steps 4 and 7)   | 07/14/2026 | 07/14/2026      | <https://docs.aws.amazon.com/AmazonCloudFront>                                           |
 | 3   | - Test the tour-booking flow end-to-end (steps 5–9) and verify data consistency in S3 Storage and DynamoDB            | 07/15/2026 | 07/15/2026      | -                                           |
 | 4   | - Review and fix bugs found during testing (UI, API, data)                                                             | 07/16/2026 | 07/16/2026      | -                                           |
 | 5   | - Optimize Lambda cold-start time, and verify that CloudWatch correctly logs activity and raises alerts on errors (steps 10–11) | 07/17/2026 | 07/17/2026      | -                                           |

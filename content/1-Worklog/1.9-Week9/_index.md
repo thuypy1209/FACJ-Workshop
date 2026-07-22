@@ -24,6 +24,5 @@ pre: " <b> 1.9. </b> "
 ### Week 9 Achievements:
 
 * Completed the feature to display the tour list on the Frontend, connected end-to-end with API Gateway.
-* Properly handled loading, error, and empty-data states for a better user experience.
-* Built the tour-booking request form and confirmed it flows correctly through WAF and API Gateway, matching steps 5–6 of the architecture diagram.
+* Built the tour-booking request form and confirmed it flows correctly through WAF and API Gateway.
 * Added basic search/filter capability, ready to move on to UI/UX polishing in Week 10.

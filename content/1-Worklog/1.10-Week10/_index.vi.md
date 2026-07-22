@@ -19,11 +19,11 @@ pre: " <b> 1.10. </b> "
 | 2    | - Tái cấu trúc bố cục bằng Flexbox cho các trang Danh sách tour, Đăng nhập và Trang chủ                           | 07/07/2026   | 07/07/2026        | -                                           |
 | 3    | - Xử lý Responsive cho các kích thước màn hình mobile, tablet và desktop                                          | 08/07/2026   | 08/07/2026        | -                                           |
 | 4    | - Xây dựng các khối thông tin khuyến mãi (banner, ưu đãi tour nổi bật) trên trang chủ                             | 09/07/2026   | 09/07/2026        | -                                           |
-| 5    | - Triển khai bản build mới lên bucket S3 Frontend và tạo CloudFront cache invalidation <br> - Kiểm tra giao diện trên nhiều độ phân giải và trình duyệt khác nhau | 10/07/2026   | 10/07/2026        | -                                           |
+| 5    | - Triển khai bản build mới lên bucket S3 Frontend và tạo CloudFront cache invalidation <br> - Kiểm tra giao diện trên nhiều độ phân giải và trình duyệt khác nhau | 10/07/2026   | 10/07/2026        | <https://docs.aws.amazon.com/AmazonCloudFront>                                           |
 
 ### Thành quả tuần 10:
 
 * Hoàn thiện tổng thể UI/UX cho các trang chính của hệ thống.
 * Áp dụng thành công Flexbox để xây dựng bố cục linh hoạt, đồng nhất.
 * Ứng dụng hiển thị tốt trên các kích thước màn hình mobile, tablet và desktop.
-* Hoàn thành các khối thông tin khuyến mãi trên trang chủ và triển khai bản build mới lên S3 Frontend + CloudFront, sẵn sàng cho việc kiểm thử toàn hệ thống ở tuần 11.
+* Hoàn thành các khối thông tin khuyến mãi trên trang chủ và triển khai bản build mới lên S3 Frontend + CloudFront, sẵn sàng cho việc kiểm thử toàn hệ thống.

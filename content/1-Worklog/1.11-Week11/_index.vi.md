@@ -16,7 +16,7 @@ pre: " <b> 1.11. </b> "
 | Ngày | Công việc                                                                                                             | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
 | ---- | -------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------ |
 | 1    | - Xây dựng checklist test case cho toàn bộ luồng: phân giải DNS, phân phối web, đăng ký, đăng nhập, xem danh sách tour, đặt tour | 13/07/2026   | 13/07/2026        | -                                           |
-| 2    | - Kiểm thử Route 53/WAF/CloudFront (bước 1-3) và luồng xác thực (đăng ký/đăng nhập/token hết hạn, bước 4 và 7)         | 14/07/2026   | 14/07/2026        | -                                           |
+| 2    | - Kiểm thử Route 53/WAF/CloudFront (bước 1-3) và luồng xác thực (đăng ký/đăng nhập/token hết hạn, bước 4 và 7)         | 14/07/2026   | 14/07/2026        | <https://docs.aws.amazon.com/AmazonCloudFront>                                           |
 | 3    | - Kiểm thử toàn bộ luồng đặt tour đầu-cuối (bước 5-9) và kiểm tra tính nhất quán dữ liệu trong S3 Storage và DynamoDB | 15/07/2026   | 15/07/2026        | -                                           |
 | 4    | - Rà soát và sửa các lỗi phát hiện trong quá trình kiểm thử (UI, API, dữ liệu)                                        | 16/07/2026   | 16/07/2026        | -                                           |
 | 5    | - Tối ưu thời gian cold-start của Lambda, và kiểm tra CloudWatch ghi log hoạt động, cảnh báo lỗi đúng theo bước 10-11 | 17/07/2026   | 17/07/2026        | -                                           |

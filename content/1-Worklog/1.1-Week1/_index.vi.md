@@ -15,7 +15,7 @@ pre: " <b> 1.1. </b> "
 ### Công việc thực hiện trong tuần:
 | Ngày | Công việc                                                                                                                                     | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------ |
-| 1    | - Làm quen với mentor và các thành viên FCJ <br> - Đọc và ghi chú nội quy, quy định của đơn vị thực tập                                        | 05/05/2026   | 05/05/2026        | -                                           |
+| 1    | - Làm quen với mentor và các thành viên FCJ <br> - Đọc và ghi chú nội quy, quy định của đơn vị thực tập                                        | 05/05/2026   | 05/05/2026        | <https://cloudjourney.awsstudygroup.com/>                                           |
 | 2    | - Nghiên cứu mô hình AWS Serverless và cách Route 53, WAF, CloudFront, API Gateway, Lambda, DynamoDB, Cognito, S3, CloudWatch phối hợp với nhau | 06/05/2026   | 06/05/2026        | <https://cloudjourney.awsstudygroup.com/>  |
 | 3    | - Khảo sát nghiệp vụ hệ thống đặt tour trực tuyến: vai trò người dùng, chức năng chính (xem danh sách tour, đặt tour, quản lý đặt chỗ), luồng đặt tour | 07/05/2026   | 07/05/2026        | -                                           |
 | 4    | - Soạn thảo danh sách chức năng và use-case ban đầu cho hệ thống <br> - Trao đổi với mentor để thống nhất phạm vi thực hiện                    | 08/05/2026   | 08/05/2026        | -                                           |

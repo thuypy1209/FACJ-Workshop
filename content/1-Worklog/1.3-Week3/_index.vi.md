@@ -15,9 +15,9 @@ pre: " <b> 1.3. </b> "
 ### Công việc thực hiện trong tuần:
 | Ngày | Công việc                                                                                                                     | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ------------ | ---------------- | ------------------------------------------ |
-| 1    | - Tìm hiểu kiến thức nền tảng về DynamoDB: partition key, sort key, Global Secondary Index (GSI)                               | 18/05/2026   | 18/05/2026        | <https://cloudjourney.awsstudygroup.com/>  |
-| 2    | - Thiết kế cấu trúc bảng cho Users, Tours, Bookings dựa trên các access pattern của hệ thống                                    | 19/05/2026   | 19/05/2026        | -                                           |
-| 3    | - Tạo các bảng DynamoDB và cấu hình primary key / GSI cho từng bảng                                                            | 20/05/2026   | 20/05/2026        | -                                           |
+| 1    | - Tìm hiểu kiến thức nền tảng về DynamoDB: partition key, sort key, Global Secondary Index (GSI)                               | 18/05/2026   | 18/05/2026        | <https://docs.aws.amazon.com/amazondynamodb/>  |
+| 2    | - Thiết kế cấu trúc bảng cho Users, Tours, Bookings dựa trên các access pattern của hệ thống                                    | 19/05/2026   | 19/05/2026        | <https://docs.aws.amazon.com/amazondynamodb/>                                           |
+| 3    | - Tạo các bảng DynamoDB và cấu hình primary key / GSI cho từng bảng                                                            | 20/05/2026   | 20/05/2026        | <https://docs.aws.amazon.com/amazondynamodb/>                                           |
 | 4    | - Khởi tạo dữ liệu mẫu cho Users, Tours, Bookings <br> - **Thực hành:** thêm, sửa, xóa dữ liệu qua AWS Console                 | 21/05/2026   | 21/05/2026        | -                                           |
 | 5    | - **Thực hành:** thiết lập các truy vấn cơ bản (Query/Scan) để tìm kiếm thông tin tour theo các access pattern <br> - Review cùng mentor | 22/05/2026   | 22/05/2026        | -                                           |
 

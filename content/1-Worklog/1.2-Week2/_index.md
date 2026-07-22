@@ -15,11 +15,11 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                     | Start Date | Completion Date | Reference Material                        |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------ |
-| 1   | - Study AWS architecture-diagram conventions and standard AWS Architecture Icons                                                                        | 05/11/2026 | 05/11/2026      | <https://cloudjourney.awsstudygroup.com/>  |
-| 2   | - Design the **Edge Security & Delivery** block: Route 53 for DNS resolution, WAF for security checks, CloudFront for content delivery, S3 Frontend for static web hosting | 05/12/2026 | 05/12/2026      | -                                           |
-| 3   | - Design the **Region (Serverless Architecture)** block: WAF to filter malicious traffic, API Gateway to receive requests, Cognito to authenticate users | 05/13/2026 | 05/13/2026      | -                                           |
-| 4   | - Design the compute layer with Lambda and the data layer with S3 Storage (booking images/documents) and DynamoDB (store/search tour information)      | 05/14/2026 | 05/14/2026      | -                                           |
-| 5   | - Design the monitoring flow with CloudWatch (activity logging, system error tracking) <br> - Finalize the diagram with the full 11-step flow and review it with the mentor | 05/15/2026 | 05/15/2026      | -                                           |
+| 1   | - Study AWS architecture-diagram conventions and standard AWS Architecture Icons                                                                        | 05/11/2026 | 05/11/2026      | <https://aws.amazon.com/vi/architecture/icons/>  |
+| 2   | - Design the **Edge Security & Delivery** block: Route 53 for DNS resolution, WAF for security checks, CloudFront for content delivery, S3 Frontend for static web hosting | 05/12/2026 | 05/12/2026      | <https://docs.aws.amazon.com/cloudfront/>                                          |
+| 3   | - Design the **Region (Serverless Architecture)** block: WAF to filter malicious traffic, API Gateway to receive requests, Cognito to authenticate users | 05/13/2026 | 05/13/2026      | <https://docs.aws.amazon.com/apigateway/>                                           |
+| 4   | - Design the compute layer with Lambda and the data layer with S3 Storage (booking images/documents) and DynamoDB (store/search tour information)      | 05/14/2026 | 05/14/2026      | <https://docs.aws.amazon.com/lambda/>                                           |
+| 5   | - Design the monitoring flow with CloudWatch (activity logging, system error tracking) <br> - Finalize the diagram with the full 11-step flow and review it with the mentor | 05/15/2026 | 05/15/2026      | <https://docs.aws.amazon.com/cloudwatch/>                                           |
 
 ### Week 2 Achievements:
 

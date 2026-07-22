@@ -17,7 +17,7 @@ pre: " <b> 1.12. </b> "
 | --- | -------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------ |
 | 1   | - Compile the worklogs and results from Weeks 1–11 to outline the internship report                                 | 07/20/2026 | 07/20/2026      | -                                           |
 | 2   | - Write the internship report: objectives, system architecture, and the technologies used                            | 07/21/2026 | 07/21/2026      | -                                           |
-| 3   | - Write the technical documentation: full architecture diagram (Route 53, WAF, CloudFront, S3 Frontend, API Gateway, Cognito, Lambda, S3 Storage, DynamoDB, CloudWatch), database design, and API list | 07/22/2026 | 07/22/2026      | -                                           |
+| 3   | - Write the technical documentation: full architecture diagram (Route 53, WAF, CloudFront, S3 Frontend, API Gateway, Cognito, Lambda, S3 Storage, DynamoDB, CloudWatch), database design, and API list | 07/22/2026 | 07/22/2026      | <https://aws.amazon.com/vi/architecture/well-architected/>                                           |
 | 4   | - Write the sections on results achieved, lessons learned, and self-evaluation                                       | 07/23/2026 | 07/23/2026      | -                                           |
 | 5   | - Review the full report with the mentor, revise, and finalize the internship report                                 | 07/24/2026 | 07/25/2026      | -                                           |
 

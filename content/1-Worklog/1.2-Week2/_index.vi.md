@@ -15,11 +15,11 @@ pre: " <b> 1.2. </b> "
 ### Công việc thực hiện trong tuần:
 | Ngày | Công việc                                                                                                                                                     | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------ |
-| 1    | - Tìm hiểu quy ước và các biểu tượng chuẩn (AWS Architecture Icons) khi vẽ sơ đồ kiến trúc AWS                                                                | 11/05/2026   | 11/05/2026        | <https://cloudjourney.awsstudygroup.com/>  |
-| 2    | - Thiết kế khối **Edge Security & Delivery**: Route 53 phân giải tên miền, WAF kiểm tra bảo mật, CloudFront phân phối nội dung, S3 Frontend lưu trữ giao diện web tĩnh | 12/05/2026   | 12/05/2026        | -                                           |
-| 3    | - Thiết kế khối **Region (Serverless Architecture)**: WAF lọc luồng độc hại, API Gateway tiếp nhận request, Cognito xác thực người dùng                       | 13/05/2026   | 13/05/2026        | -                                           |
-| 4    | - Thiết kế tầng xử lý logic với Lambda và tầng dữ liệu gồm S3 Storage (lưu ảnh/tài liệu đặt tour) và DynamoDB (lưu/tìm kiếm thông tin tour)                    | 14/05/2026   | 14/05/2026        | -                                           |
-| 5    | - Thiết kế luồng giám sát với CloudWatch (ghi log hoạt động, theo dõi lỗi hệ thống) <br> - Vẽ hoàn chỉnh sơ đồ với đầy đủ 11 bước luồng xử lý và review cùng mentor | 15/05/2026   | 15/05/2026        | -                                           |
+| 1    | - Tìm hiểu quy ước và các biểu tượng chuẩn (AWS Architecture Icons) khi vẽ sơ đồ kiến trúc AWS                                                                | 11/05/2026   | 11/05/2026        | <<https://aws.amazon.com/vi/architecture/icons/>  |
+| 2    | - Thiết kế khối **Edge Security & Delivery**: Route 53 phân giải tên miền, WAF kiểm tra bảo mật, CloudFront phân phối nội dung, S3 Frontend lưu trữ giao diện web tĩnh | 12/05/2026   | 12/05/2026        | <https://docs.aws.amazon.com/cloudfront/>                                           |
+| 3    | - Thiết kế khối **Region (Serverless Architecture)**: WAF lọc luồng độc hại, API Gateway tiếp nhận request, Cognito xác thực người dùng                       | 13/05/2026   | 13/05/2026        | <https://docs.aws.amazon.com/apigateway/>                                           |
+| 4    | - Thiết kế tầng xử lý logic với Lambda và tầng dữ liệu gồm S3 Storage (lưu ảnh/tài liệu đặt tour) và DynamoDB (lưu/tìm kiếm thông tin tour)                    | 14/05/2026   | 14/05/2026        | <https://docs.aws.amazon.com/lambda/>                                           |
+| 5    | - Thiết kế luồng giám sát với CloudWatch (ghi log hoạt động, theo dõi lỗi hệ thống) <br> - Vẽ hoàn chỉnh sơ đồ với đầy đủ 11 bước luồng xử lý và review cùng mentor | 15/05/2026   | 15/05/2026        | <https://docs.aws.amazon.com/cloudwatch/>                                           |
 
 ### Thành quả tuần 2:
 

@@ -17,7 +17,7 @@ pre: " <b> 1.12. </b> "
 | ---- | -------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------ |
 | 1    | - Tổng hợp nhật ký công việc và kết quả từ tuần 1 đến tuần 11 để lên dàn ý báo cáo thực tập                     | 20/07/2026   | 20/07/2026        | -                                           |
 | 2    | - Viết báo cáo thực tập: mục tiêu, kiến trúc hệ thống và các công nghệ đã sử dụng                                | 21/07/2026   | 21/07/2026        | -                                           |
-| 3    | - Soạn thảo tài liệu kỹ thuật: sơ đồ kiến trúc đầy đủ (Route 53, WAF, CloudFront, S3 Frontend, API Gateway, Cognito, Lambda, S3 Storage, DynamoDB, CloudWatch), thiết kế cơ sở dữ liệu và danh sách API | 22/07/2026   | 22/07/2026        | -                                           |
+| 3    | - Soạn thảo tài liệu kỹ thuật: sơ đồ kiến trúc đầy đủ (Route 53, WAF, CloudFront, S3 Frontend, API Gateway, Cognito, Lambda, S3 Storage, DynamoDB, CloudWatch), thiết kế cơ sở dữ liệu và danh sách API | 22/07/2026   | 22/07/2026        | <https://aws.amazon.com/vi/architecture/well-architected/>                                           |
 | 4    | - Viết phần kết quả đạt được, bài học rút ra và tự đánh giá bản thân                                             | 23/07/2026   | 23/07/2026        | -                                           |
 | 5    | - Review toàn bộ báo cáo cùng mentor, chỉnh sửa và hoàn tất báo cáo thực tập                                     | 24/07/2026   | 25/07/2026        | -                                           |
 

@@ -15,8 +15,8 @@ pre: " <b> 1.7. </b> "
 ### Công việc thực hiện trong tuần:
 | Ngày | Công việc                                                                                                             | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo                        |
 | ---- | ---------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- | ------------------------------------------ |
-| 1    | - Khởi tạo dự án với ReactJS + Vite <br> - Thiết lập ESLint, cấu trúc thư mục và quy ước code                          | 15/06/2026   | 15/06/2026        | -                                           |
-| 2    | - Cài đặt và cấu hình React Router để điều hướng giữa các trang                                                         | 16/06/2026   | 16/06/2026        | -                                           |
+| 1    | - Khởi tạo dự án với ReactJS + Vite <br> - Thiết lập ESLint, cấu trúc thư mục và quy ước code                          | 15/06/2026   | 15/06/2026        | <https://vite.dev/guide/>                                           |
+| 2    | - Cài đặt và cấu hình React Router để điều hướng giữa các trang                                                         | 16/06/2026   | 16/06/2026        | <https://vite.dev/guide/>                                           |
 | 3    | - Xây dựng thư viện component dùng chung: Button, Input, Card, Modal, Navbar                                           | 17/06/2026   | 17/06/2026        | -                                           |
 | 4    | - Xây dựng layout nền tảng cho các trang: Header, Footer, khu vực nội dung chính                                       | 18/06/2026   | 18/06/2026        | -                                           |
 | 5    | - Thiết lập Axios instance để gọi API Gateway, cấu hình biến môi trường cho API base URL                               | 19/06/2026   | 19/06/2026        | -                                           |

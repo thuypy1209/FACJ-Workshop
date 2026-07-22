@@ -24,6 +24,5 @@ pre: " <b> 1.9. </b> "
 ### Thành quả tuần 9:
 
 * Hoàn thành chức năng hiển thị danh sách tour trên Frontend, kết nối đầu-cuối với API Gateway.
-* Xử lý tốt các trạng thái loading, lỗi và dữ liệu rỗng để cải thiện trải nghiệm người dùng.
-* Xây dựng thành công form gửi yêu cầu đặt tour và xác nhận luồng đi đúng qua WAF rồi đến API Gateway, khớp với bước 5-6 trong sơ đồ kiến trúc.
+* Xây dựng thành công form gửi yêu cầu đặt tour và xác nhận luồng đi đúng qua WAF rồi đến API Gateway.
 * Bổ sung khả năng tìm kiếm/lọc cơ bản, sẵn sàng chuyển sang hoàn thiện UI/UX ở tuần 10.
