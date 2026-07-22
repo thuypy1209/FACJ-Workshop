@@ -18,7 +18,7 @@ pre: " <b> 3.1. </b> "
 
 Tính năng này đặc biệt hữu ích khi bạn có nhiều ứng dụng chạy trên cùng một IAM role nhưng cần giới hạn quyền khác nhau (ví dụ: một pod chỉ đọc S3 bucket cụ thể, pod khác chỉ gọi một số API nhất định).
 
-![Sơ đồ Kiến trúc Mini traveloka booking](/images/3-BlogsPosted/Diagram.png)
+![Sơ đồ Kiến trúc Mini traveloka booking](/images/Diagram.png)
 
 > **Tài liệu tham khảo:**
 > * videos hướng dẫn vẽ sơ đồ : [Xem tại đây](https://www.youtube.com/watch?v=l8isyDe-GwY)

@@ -38,3 +38,4 @@ pre: " <b> 1.2. </b> "
   11. CloudWatch theo dõi và cảnh báo lỗi hệ thống
 * Xác định rõ vai trò của từng dịch vụ AWS trong kiến trúc: Route 53 cho DNS, WAF cho bảo mật biên, CloudFront + S3 Frontend cho phân phối giao diện web, API Gateway cho tầng API, Cognito cho xác thực, Lambda cho xử lý logic, S3 Storage/DynamoDB cho lưu trữ dữ liệu, và CloudWatch cho giám sát/logging.
 * Nhận được góp ý và sự đồng thuận từ mentor để tiến hành thiết kế chi tiết cơ sở dữ liệu ở tuần 3.
+![Sơ đồ kiến trúc](images/Diagram.png)

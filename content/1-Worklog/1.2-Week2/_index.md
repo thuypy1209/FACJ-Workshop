@@ -38,3 +38,4 @@ pre: " <b> 1.2. </b> "
   11. CloudWatch monitors the system and raises alerts on errors.
 * Clearly defined the role of each AWS service in the architecture: Route 53 for DNS, WAF for edge security, CloudFront + S3 Frontend for web delivery, API Gateway for the API layer, Cognito for authentication, Lambda for business logic, S3 Storage/DynamoDB for data storage, and CloudWatch for monitoring/logging.
 * Got the mentor's feedback and approval to proceed with the detailed database design in Week 3.
+![Architecture Diagram](images/Diagram.png)

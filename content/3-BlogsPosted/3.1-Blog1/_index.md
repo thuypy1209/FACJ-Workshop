@@ -17,7 +17,7 @@ pre: " <b> 3.1. </b> "
 
 This feature is especially useful when multiple applications share the same IAM role but require different permission boundaries. For example, one pod may only need read access to a specific Amazon S3 bucket, while another pod may only require permission to invoke a limited set of AWS APIs.
 
-![Mini Traveloka Booking Architecture Diagram](/images/3-BlogsPosted/Diagram.png)
+![Mini Traveloka Booking Architecture Diagram](/images/Diagram.png)
 
 > **References:**
 > * Architecture diagram tutorial video: [Watch here](https://www.youtube.com/watch?v=l8isyDe-GwY)
